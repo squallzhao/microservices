@@ -14,6 +14,8 @@
 
 *[API网关Kong](https://github.com/Kong/kong) *[kong教程](http://www.cnblogs.com/SummerinShire/p/6386086.html) *[dashboard](https://github.com/PGBI/kong-dashboard) *[konga](https://github.com/pantsel/konga)
 
+*[xxl-job1](https://github.com/xuxueli/xxl-job/)  *[xxl-job2](http://www.xuxueli.com/xxl-job/)
+
 
 
 
