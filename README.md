@@ -8,6 +8,8 @@
 
 微服务
 -------------
+*[简介](http://microservices.io/)
+
 *[openresty](http://wiki.jikexueyuan.com/project/openresty/openresty/install.html)
 
 *[API网关Kong](https://github.com/Kong/kong) *[kong教程](http://www.cnblogs.com/SummerinShire/p/6386086.html)
