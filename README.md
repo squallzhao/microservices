@@ -16,6 +16,15 @@
 
 *[xxl-job1](https://github.com/xuxueli/xxl-job/)  *[xxl-job2](http://www.xuxueli.com/xxl-job/)
 
+扩展
+----------------
+Master/salve(主/从)
+
+垂直分区(分库)
+
+水平分区(分表，sharding)
+
+
 事务
 ------------
 CAP理论，一致性，可用性和分区容错性3者 不能同时满足，最多只能同时满足两个
