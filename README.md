@@ -16,6 +16,13 @@
 
 *[xxl-job1](https://github.com/xuxueli/xxl-job/)  *[xxl-job2](http://www.xuxueli.com/xxl-job/)
 
+事务
+------------
+CAP理论，一致性，可用性和分区容错性3者 不能同时满足，最多只能同时满足两个
+
+BASE事务策略
+
+ACID事务策略
 
 安全
 --------
