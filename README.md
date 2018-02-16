@@ -26,14 +26,20 @@ Master/salve(主/从)
 
 水平分区(分表，sharding)
 
+分布式共识
+--------------
+
+- raft
+   - [动画演示](http://thesecretlivesofdata.com/raft/)
+- paxos
 
 事务
 ------------
-CAP理论，一致性，可用性和分区容错性3者 不能同时满足，最多只能同时满足两个
+-- CAP理论，一致性，可用性和分区容错性3者 不能同时满足，最多只能同时满足两个
 
-BASE事务策略
+-- BASE事务策略
 
-ACID事务策略
+-- ACID事务策略
 
 - [两地三中心](http://blog.csdn.net/love_taylor/article/details/73603672) 
 
