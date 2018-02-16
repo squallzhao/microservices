@@ -26,6 +26,8 @@ Master/salve(主/从)
 
 水平分区(分表，sharding)
 
+- [Nosql](http://www.runoob.com/mongodb/nosql.html)
+
 分布式共识
 --------------
 
