@@ -35,6 +35,8 @@ Master/salve(主/从)
 
 事务
 ------------
+-- [CAP,ACID,BASE](http://www.jdon.com/37625)
+
 -- CAP理论，一致性，可用性和分区容错性3者 不能同时满足，最多只能同时满足两个
 
 -- BASE事务策略
