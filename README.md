@@ -35,7 +35,7 @@ BASE事务策略
 
 ACID事务策略
 
-- 两地三中心(http://blog.csdn.net/love_taylor/article/details/73603672) 
+- [两地三中心](http://blog.csdn.net/love_taylor/article/details/73603672) 
 
 安全
 --------
