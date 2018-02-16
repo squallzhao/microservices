@@ -35,6 +35,8 @@ BASE事务策略
 
 ACID事务策略
 
+- 两地三中心(http://blog.csdn.net/love_taylor/article/details/73603672) 
+
 安全
 --------
 *[csrf](http://netsecurity.51cto.com/art/201609/518323.htm)   *[csrf2](https://www.cnblogs.com/shytong/p/5308667.html)
