@@ -31,7 +31,7 @@ Master/salve(主/从)
 
 - raft
    - [动画演示](http://thesecretlivesofdata.com/raft/)
-- paxos
+- [paxos](http://www.jdon.com/artichect/paxos.html)
 
 事务
 ------------
