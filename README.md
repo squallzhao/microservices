@@ -46,6 +46,7 @@
 - [paxos 强一致](http://www.jdon.com/artichect/paxos.html)
 - zab 强一致
 - [简介]（http://blog.csdn.net/followmyinclinations/article/details/52870418）
+- [分布式一致性ppt](https://wk.baidu.com/view/396452c010a6f524cdbf8563.html#54)
 
 事务
 ------------
