@@ -52,7 +52,7 @@
 
 事务
 ------------
-[1](../picture/cap-theoram-image.png)
+[1](picture/cap-theoram-image.png)
 - [悲观锁，乐观锁](knowledge/lock.md)
 - [CAP,ACID,BASE](http://www.jdon.com/37625)
 - CAP三原则理论（分布式系统理论，只能满足2个）
