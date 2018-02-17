@@ -44,7 +44,7 @@
    - [动画演示](http://thesecretlivesofdata.com/raft/)
 - [paxos 强一致](http://www.jdon.com/artichect/paxos.html)
 - zab 强一致
-
+- [简介]（http://blog.csdn.net/followmyinclinations/article/details/52870418）
 事务
 ------------
 - [悲观锁，乐观锁](knowledge/lock.md)
