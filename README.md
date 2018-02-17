@@ -48,11 +48,17 @@
     - Consistency(一致性) 数据一致更新，所有数据变动都是同步的
     - Availability(可用性) 好的响应性能
     - Partition tolerance(分区容忍性) 可靠性
-- BASE事务策略（牺牲强一致性，获得可用性和可靠性 AP）
+- ACID事务策略（关系数据库的ACID模型拥有 高一致性 + 可用性 很难进行分区）
+    - Atomicity原子性：一个事务中所有操作都必须全部完成，要么全部不完成。
+    - Consistency一致性. 在事务开始或结束时，数据库应该在一致状态。
+    - Isolation隔离层. 事务将假定只有它自己在操作数据库，彼此不知晓。
+    - Durability. 一旦事务完成，就不能返回。
+- BASE事务策略（反ACID模型，完全不同ACID模型，牺牲高一致性，获得可用性或可靠性 AP）
     - Basically Available基本可用。支持分区失败(e.g. sharding碎片划分数据库)
     - Soft state软状态 状态可以有一段时间不同步，异步。
     - Eventually consistent最终一致，最终数据是一致的就可以了，而不是时时高一致。
-- ACID事务策略
+
+
 - [两地三中心](http://blog.csdn.net/love_taylor/article/details/73603672) 
 
 安全
