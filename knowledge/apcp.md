@@ -2,7 +2,9 @@ CAP理论：CAP的含义是Consistency, Availability, Partition-tolerance也就�
 
 1、Consistency，见我的描述：http://www.gscholar.cn/2014/03/acid.html
 
-2、Availability 是指所有的读和写都必须要能终止。Partition-tolerance 指系统中会任意的丢失报文(这和“最终会有一个报文会到达”是相对的)。
+2、Availability 是指所有的读和写都必须要能终止。
+
+3、Partition-tolerance 指系统中会任意的丢失报文(这和“最终会有一个报文会到达”是相对的)。
 
    CAP 理论说在一个系统中对某个数据不存在一个算法同时满足 Consistency, Availability, Partition-tolerance 。就是说在一个系统中，可以对某些数据做到 CP, 对另一些数据做到 AP，就算是对同一个数据，调用者可以指定不同的算法，某些算法可以做到 CP，某些算法可以做到 AP。
 
