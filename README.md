@@ -70,6 +70,7 @@
     - Soft state软状态 状态可以有一段时间不同步，异步。
     - Eventually consistent最终一致，最终数据是一致的就可以了，而不是时时高一致。
 - CP（CP 主要是一些Key-value数据库，典型代表为google的Big Table, redis）
+- [AP和CP抉择]（knowledge/apcp.md)
 - NOSQL(拓展了BASE思想，可按照具体情况定制CAP特别方案)
     - Key-Value存储，如Amaze Dynamo等，可根据CAP三原则灵活选择不同倾向的数据库产品。
     - 领域模型 + 分布式缓存 + 存储（Qi4j和NoSql运动），可根据CAP三原则结合项目定制灵活的分布式方案，难度高。
