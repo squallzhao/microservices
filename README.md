@@ -48,7 +48,10 @@
     - Consistency(一致性) 数据一致更新，所有数据变动都是同步的
     - Availability(可用性) 好的响应性能
     - Partition tolerance(分区容忍性) 可靠性
-- BASE事务策略
+- BASE事务策略（牺牲强一致性，获得可用性和可靠性 AP）
+    - Basically Available基本可用。支持分区失败(e.g. sharding碎片划分数据库)
+    - Soft state软状态 状态可以有一段时间不同步，异步。
+    - Eventually consistent最终一致，最终数据是一致的就可以了，而不是时时高一致。
 - ACID事务策略
 - [两地三中心](http://blog.csdn.net/love_taylor/article/details/73603672) 
 
