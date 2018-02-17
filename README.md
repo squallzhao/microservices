@@ -19,8 +19,8 @@
         - [dashboard](https://github.com/PGBI/kong-dashboard) 
         - [konga](https://github.com/pantsel/konga)
 - schedule        
-    - [xxl-job1](https://github.com/xuxueli/xxl-job/) 
-    - [xxl-job2](http://www.xuxueli.com/xxl-job/)
+    - [xxl-job源码](https://github.com/xuxueli/xxl-job/) 
+    - [xxl-job文档](http://www.xuxueli.com/xxl-job/)
 - [Oceanbase](https://www.zhihu.com/question/37421030) 
 
 扩展
