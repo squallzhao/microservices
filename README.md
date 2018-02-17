@@ -42,16 +42,11 @@
 
 事务
 ------------
--- [悲观锁，乐观锁](knowledge/lock.md)
-
--- [CAP,ACID,BASE](http://www.jdon.com/37625)
-
--- CAP理论，一致性，可用性和分区容错性3者 不能同时满足，最多只能同时满足两个
-
--- BASE事务策略
-
--- ACID事务策略
-
+- [悲观锁，乐观锁](knowledge/lock.md)
+- [CAP,ACID,BASE](http://www.jdon.com/37625)
+- CAP理论
+- BASE事务策略
+- ACID事务策略
 - [两地三中心](http://blog.csdn.net/love_taylor/article/details/73603672) 
 
 安全
