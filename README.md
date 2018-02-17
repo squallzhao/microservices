@@ -60,15 +60,16 @@
     - Consistency(一致性) 数据一致更新，所有数据变动都是同步的
     - Availability(可用性) 好的响应性能
     - Partition tolerance(分区容忍性) 可靠性
-- ACID事务策略（关系数据库的ACID模型拥有 强一致性 + 可用性 很难进行分区 CA）
+- ACID事务策略（ACID模型拥有 强一致性 + 可用性 很难进行分区 CA 关系数据库）
     - Atomicity原子性：一个事务中所有操作都必须全部完成，要么全部不完成。
     - Consistency一致性. 在事务开始或结束时，数据库应该在一致状态。
     - Isolation隔离层. 事务将假定只有它自己在操作数据库，彼此不知晓。
     - Durability. 一旦事务完成，就不能返回。
-- BASE事务策略（反ACID模型，完全不同ACID模型，牺牲高一致性，获得可用性或可靠性 AP）
+- BASE事务策略（反ACID模型，完全不同ACID模型，牺牲高一致性，获得可用性或可靠性 AP 分布式数据库）
     - Basically Available基本可用。支持分区失败(e.g. sharding碎片划分数据库)
     - Soft state软状态 状态可以有一段时间不同步，异步。
     - Eventually consistent最终一致，最终数据是一致的就可以了，而不是时时高一致。
+- CP（CP 主要是一些Key-value数据库，典型代表为google的Big Table, redis）
 - NOSQL(拓展了BASE思想，可按照具体情况定制CAP特别方案)
     - Key-Value存储，如Amaze Dynamo等，可根据CAP三原则灵活选择不同倾向的数据库产品。
     - 领域模型 + 分布式缓存 + 存储（Qi4j和NoSql运动），可根据CAP三原则结合项目定制灵活的分布式方案，难度高。
