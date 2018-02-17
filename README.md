@@ -37,6 +37,7 @@
 --------------
 - [Master-Slave 一般最终一致性](knowledge/masterslave.md)
 - [Master-Master 一般最终一致性](knowledge/mastermaster.md)
+- [NWR模型 一般最终一致性](knowledge/nwr.md)
 - [2PC两阶段提交  Two  Phase Commit 强一致](knowledge/2pc.md)
 - [3PC三阶段提交  ThreePhase Commit 强一致](knowledge/3pc.md)
 - raft 强一致
