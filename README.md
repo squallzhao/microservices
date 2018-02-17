@@ -34,6 +34,33 @@
 
 - [Nosql](http://www.runoob.com/mongodb/nosql.html)
 
+容错
+------------
+
+- Failover 失败自动切换
+
+当出现失败，重试其它服务器，通常用于读操作（推荐使用）。 重试会带来更长延迟。
+
+- Failfast  快速失败
+
+只发起一次调用，失败立即报错,通常用于非幂等性的写操作。 如果有机器正在重启，可能会出现调用失败 。
+
+- Failsafe 失败安全
+
+出现异常时，直接忽略，通常用于写入审计日志等操作。 调用信息丢失 可用于生产环境 Monitor。
+
+- Failback  失败自动恢复
+
+后台记录失败请求，定时重发。通常用于消息通知操作 不可靠，重启丢失。 可用于生产环境 Registry。
+
+- Forking  并行调用多个服务器
+
+只要一个成功即返回，通常用于实时性要求较高的读操作。 需要浪费更多服务资源   。
+
+- Broadcast
+
+广播调用，所有提供逐个调用，任意一台报错则报错。通常用于更新提供方本地状态 速度慢，任意一台报错则报错 。
+
 分布式共识(一致性）
 --------------
 - 类型
@@ -60,7 +87,7 @@
 - [简介]（http://blog.csdn.net/followmyinclinations/article/details/52870418）
 - [分布式一致性ppt](https://wk.baidu.com/view/396452c010a6f524cdbf8563.html#54)
 
-事务
+分布式CAP
 ------------
 ![1](picture/cap-theoram-image.png)
 ![2](picture/cap.jpg)
