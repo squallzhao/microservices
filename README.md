@@ -39,6 +39,7 @@
 - [Master-Master 一般最终一致性](knowledge/mastermaster.md)
 - [NWR模型](knowledge/nwr.md)
    - [一般最终一致性 CAP的选择权交给了用户，让用户自己的选择你的CAP中的哪两个](http://jimmee.iteye.com/blog/2234637)
+   - [分布式Quorum机制,NWR策略读写模型](http://m635674608.iteye.com/blog/2343038)
 - [2PC两阶段提交  Two  Phase Commit 强一致](knowledge/2pc.md)
 - [3PC三阶段提交  ThreePhase Commit 强一致](knowledge/3pc.md)
 - raft 强一致
