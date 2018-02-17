@@ -50,8 +50,9 @@
     - zab 强一致
 - 2 解决分布式网络的应用层路由
     - DHT算法
+- 3 解决分布式环境下信息高效分发问题
+    - gossip协议(最终一致性，分布式节点间元数据)
 - totem协议 
-- gossip协议(最终一致性，分布式节点间元数据)
 - [简介]（http://blog.csdn.net/followmyinclinations/article/details/52870418）
 - [分布式一致性ppt](https://wk.baidu.com/view/396452c010a6f524cdbf8563.html#54)
 
