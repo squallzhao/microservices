@@ -23,13 +23,13 @@
     - [xxl-job文档](http://www.xuxueli.com/xxl-job/)
 - [Oceanbase](https://www.zhihu.com/question/37421030) 
 
-扩展
+扩展性
 ----------------
-Master/salve(主/从)
+- 读写分离(Master/salve)
 
-垂直分区(分库)
+- 垂直分区(分库)
 
-水平分区(分表，sharding)
+- 水平分区(分表，sharding)
 
 - [Nosql](http://www.runoob.com/mongodb/nosql.html)
 
