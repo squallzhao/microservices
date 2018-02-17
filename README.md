@@ -35,7 +35,7 @@
 
 分布式共识
 --------------
-
+- [Master-Slave](knowledge/masterslave.md)
 - raft
    - [动画演示](http://thesecretlivesofdata.com/raft/)
 - [paxos](http://www.jdon.com/artichect/paxos.html)
