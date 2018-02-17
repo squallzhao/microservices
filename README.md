@@ -48,6 +48,8 @@
     - raft 强一致
        - [动画演示](http://thesecretlivesofdata.com/raft/)
     - zab 强一致
+- 2 解决分布式网络的应用层路由
+    - DHT算法
 - totem协议 
 - gossip协议(最终一致性，分布式节点间元数据)
 - [简介]（http://blog.csdn.net/followmyinclinations/article/details/52870418）
