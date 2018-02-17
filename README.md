@@ -57,8 +57,9 @@
     - Basically Available基本可用。支持分区失败(e.g. sharding碎片划分数据库)
     - Soft state软状态 状态可以有一段时间不同步，异步。
     - Eventually consistent最终一致，最终数据是一致的就可以了，而不是时时高一致。
-
-
+- NOSQL(拓展了BASE思想，可按照具体情况定制CAP特别方案)
+    - Key-Value存储，如Amaze Dynamo等，可根据CAP三原则灵活选择不同倾向的数据库产品。
+    - 领域模型 + 分布式缓存 + 存储 （Qi4j和NoSql运动），可根据CAP三原则结合自己项目定制灵活的分布式方案，难度高。
 - [两地三中心](http://blog.csdn.net/love_taylor/article/details/73603672) 
 
 安全
