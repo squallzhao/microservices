@@ -37,12 +37,12 @@
 --------------
 - [Master-Slave 一般最终一致性](knowledge/masterslave.md)
 - [Master-Master 一般最终一致性](knowledge/mastermaster.md)
-- [2PC两阶段提交  Two  Phase Commit](knowledge/2pc.md)
-- [3PC三阶段提交  ThreePhase Commit](knowledge/3pc.md)
-- raft
+- [2PC两阶段提交  Two  Phase Commit 强一致](knowledge/2pc.md)
+- [3PC三阶段提交  ThreePhase Commit 强一致](knowledge/3pc.md)
+- raft 强一致
    - [动画演示](http://thesecretlivesofdata.com/raft/)
-- [paxos](http://www.jdon.com/artichect/paxos.html)
-- zab
+- [paxos 强一致](http://www.jdon.com/artichect/paxos.html)
+- zab 强一致
 
 事务
 ------------
