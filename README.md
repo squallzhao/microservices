@@ -44,7 +44,7 @@
 ------------
 - [悲观锁，乐观锁](knowledge/lock.md)
 - [CAP,ACID,BASE](http://www.jdon.com/37625)
-- CAP理论（分布式系统理论）
+- CAP三原则理论（分布式系统理论，只能满足2个）
     - Consistency(一致性) 数据一致更新，所有数据变动都是同步的
     - Availability(可用性) 好的响应性能
     - Partition tolerance(分区容忍性) 可靠性
@@ -59,7 +59,7 @@
     - Eventually consistent最终一致，最终数据是一致的就可以了，而不是时时高一致。
 - NOSQL(拓展了BASE思想，可按照具体情况定制CAP特别方案)
     - Key-Value存储，如Amaze Dynamo等，可根据CAP三原则灵活选择不同倾向的数据库产品。
-    - 领域模型 + 分布式缓存 + 存储 （Qi4j和NoSql运动），可根据CAP三原则结合自己项目定制灵活的分布式方案，难度高。
+    - 领域模型 + 分布式缓存 + 存储（Qi4j和NoSql运动），可根据CAP三原则结合项目定制灵活的分布式方案，难度高。
 - [两地三中心](http://blog.csdn.net/love_taylor/article/details/73603672) 
 
 安全
