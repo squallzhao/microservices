@@ -22,6 +22,7 @@
     - [xxl-job源码](https://github.com/xuxueli/xxl-job/) 
     - [xxl-job文档](http://www.xuxueli.com/xxl-job/)
 - [Oceanbase](https://www.zhihu.com/question/37421030) 
+- [redis](https://www.cnblogs.com/mushroom/archive/2015/08/25/4752962.html)
 
 扩展性
 ----------------
