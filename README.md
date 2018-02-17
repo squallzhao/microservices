@@ -45,8 +45,8 @@
 - [悲观锁，乐观锁](knowledge/lock.md)
 - [CAP,ACID,BASE](http://www.jdon.com/37625)
 - CAP理论（分布式系统理论）
-    - Consistency(一致性), 数据一致更新，所有数据变动都是同步的
-    - Availability(可用性), 好的响应性能
+    - Consistency(一致性) 数据一致更新，所有数据变动都是同步的
+    - Availability(可用性) 好的响应性能
     - Partition tolerance(分区容忍性) 可靠性
 - BASE事务策略
 - ACID事务策略
