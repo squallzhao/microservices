@@ -48,7 +48,7 @@
    - [动画演示](http://thesecretlivesofdata.com/raft/)
 - zab 强一致
 - totem协议 
-- [gossip协议](最终一致性，分布式节点间元数据)
+- gossip协议(最终一致性，分布式节点间元数据)
 - [简介]（http://blog.csdn.net/followmyinclinations/article/details/52870418）
 - [分布式一致性ppt](https://wk.baidu.com/view/396452c010a6f524cdbf8563.html#54)
 
