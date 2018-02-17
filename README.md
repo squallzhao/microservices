@@ -43,18 +43,19 @@
    - [NWR模型](knowledge/nwr.md)
    - [一般最终一致性 CAP的选择权交给了用户，让用户自己的选择你的CAP中的哪两个](http://jimmee.iteye.com/blog/2234637)
    - [分布式Quorum机制,NWR策略读写模型](http://m635674608.iteye.com/blog/2343038)
-- 1 解决分布式系统中如何就某个值（决议）达成一致
-    - [2PC两阶段提交  Two  Phase Commit 强一致](knowledge/2pc.md)
-    - [3PC三阶段提交  ThreePhase Commit 强一致](knowledge/3pc.md)
-    - [paxos 强一致 进化的二段提交](http://www.jdon.com/artichect/paxos.html)
-    - raft 强一致
-       - [动画演示](http://thesecretlivesofdata.com/raft/)
-    - zab 强一致
-- 2 解决分布式网络的应用层路由
-    - DHT算法
-- 3 解决分布式环境下信息高效分发问题
-    - gossip协议(最终一致性，集群管理，分布式P2P节点间元数据)
-    - totem协议(强一致性) 
+- 服务系统的一致性
+    - 1 解决分布式系统中如何就某个值（决议）达成一致
+        - [2PC两阶段提交  Two  Phase Commit 强一致](knowledge/2pc.md)
+        - [3PC三阶段提交  ThreePhase Commit 强一致](knowledge/3pc.md)
+        - [paxos 强一致 进化的二段提交](http://www.jdon.com/artichect/paxos.html)
+        - zab 强一致
+        - raft 强一致
+           - [动画演示](http://thesecretlivesofdata.com/raft/)
+    - 2 解决分布式网络的应用层路由
+        - DHT算法
+    - 3 解决分布式环境下信息高效分发问题
+        - gossip协议(最终一致性，集群管理，分布式P2P节点间元数据)
+        - totem协议(强一致性) 
 - [简介]（http://blog.csdn.net/followmyinclinations/article/details/52870418）
 - [分布式一致性ppt](https://wk.baidu.com/view/396452c010a6f524cdbf8563.html#54)
 
