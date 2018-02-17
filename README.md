@@ -43,9 +43,9 @@
    - [分布式Quorum机制,NWR策略读写模型](http://m635674608.iteye.com/blog/2343038)
 - [2PC两阶段提交  Two  Phase Commit 强一致](knowledge/2pc.md)
 - [3PC三阶段提交  ThreePhase Commit 强一致](knowledge/3pc.md)
+- [paxos 强一致 进化的二段提交](http://www.jdon.com/artichect/paxos.html)
 - raft 强一致
    - [动画演示](http://thesecretlivesofdata.com/raft/)
-- [paxos 强一致](http://www.jdon.com/artichect/paxos.html)
 - zab 强一致
 - [简介]（http://blog.csdn.net/followmyinclinations/article/details/52870418）
 - [分布式一致性ppt](https://wk.baidu.com/view/396452c010a6f524cdbf8563.html#54)
