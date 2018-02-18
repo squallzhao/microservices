@@ -18,6 +18,7 @@
     - [阿里oss例子](http://blog.csdn.net/liujiahan629629/article/details/45290311)
     - [openstack swift镜像](https://hub.docker.com/r/morrisjobke/docker-swift-onlyone/)
 - gateway
+    - [nginx](http://tengine.taobao.org/book/module_development.html)
     - [openresty](http://wiki.jikexueyuan.com/project/openresty/openresty/install.html)
     - [API网关Kong](https://github.com/Kong/kong) 
         - [1](https://baijiahao.baidu.com/s?id=1592523395197628336) [2](https://www.cnblogs.com/softidea/p/7261095.html)
