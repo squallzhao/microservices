@@ -51,7 +51,7 @@
     - Eureka
     
 - [Oceanbase](https://www.zhihu.com/question/37421030) 
-- [redis](https://www.cnblogs.com/mushroom/archive/2015/08/25/4752962.html)
+- [redis](https://www.cnblogs.com/mushroom/archive/2015/08/25/4752962.html) [1](http://geek.csdn.net/news/detail/67399)
 
 扩展性
 ----------------
