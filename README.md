@@ -8,6 +8,7 @@
 -------------
 - [简介](http://microservices.io/)
 - [定义](knowledge/definination.md)
+- [微服务解决的问题](knowledge/solve.md)
 
 微服务周边
 -------------
