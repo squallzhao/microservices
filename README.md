@@ -2,7 +2,7 @@
 -----------
 - [what is IO?](knowledge/io.md)
 - [IO分类](knowledge/ioclass.md)
-- [事务的隔离级别](knowledge/shiwu.md)
+- [事务的隔离级别](knowledge/shiwu.md) [事务隔离和传播](https://www.cnblogs.com/WJ-163/p/6023054.html)
 
 微服务架构
 -------------
