@@ -51,7 +51,7 @@
     - Eureka
     
 - [Oceanbase](https://www.zhihu.com/question/37421030) 
-- [redis](https://www.cnblogs.com/mushroom/archive/2015/08/25/4752962.html) [命令](http://geek.csdn.net/news/detail/67399) [分布式锁](http://yunshen0909.iteye.com/blog/2291217)
+- [redis](https://www.cnblogs.com/mushroom/archive/2015/08/25/4752962.html) [命令](http://geek.csdn.net/news/detail/67399) [分布式锁](http://yunshen0909.iteye.com/blog/2291217) [教程](http://www.runoob.com/redis/scripting-evalsha.html)
 
 扩展性
 ----------------
