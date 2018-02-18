@@ -16,6 +16,8 @@
     - dubbo [1](http://blog.csdn.net/xlgen157387/article/details/51865289) [2](http://blog.csdn.net/noaman_wgs/article/details/70214612) [3](http://blog.csdn.net/accp_fangjian/article/details/51658292) [4](http://blog.csdn.net/congcong68/article/details/41113239) [5](http://blog.csdn.net/accp_fangjian/article/details/51658292) [6](http://www.jianshu.com/p/f6db110d1185) [7](http://www.jikexueyuan.com/course/2781_3.html?ss=1)
     - spring cloud
     - sprint boot
+
+    
 微服务周边
 -------------
 - oss
@@ -30,14 +32,24 @@
         - [kong教程](http://www.cnblogs.com/SummerinShire/p/6386086.html) 
         - [dashboard](https://github.com/PGBI/kong-dashboard) 
         - [konga](https://github.com/pantsel/konga)
-- schedule        
-    - [xxl-job源码](https://github.com/xuxueli/xxl-job/) 
-    - [xxl-job文档](http://www.xuxueli.com/xxl-job/)
+- config
+    - Disconf
+    - Archaius
+    - QConf
+    - Diamond
+    - Spring Cloud Config
+- schedule  
+    - xxl-job
+       - [xxl-job源码](https://github.com/xuxueli/xxl-job/) 
+       - [xxl-job文档](http://www.xuxueli.com/xxl-job/)
+    - Elastic-Job
 - registydiscovery
     - [zookeeper]
     - Doozerd
     - Etcd
     - [Consul](https://www.jianshu.com/p/28c6bd590ca0)
+    - Eureka
+    
 - [Oceanbase](https://www.zhihu.com/question/37421030) 
 - [redis](https://www.cnblogs.com/mushroom/archive/2015/08/25/4752962.html)
 
