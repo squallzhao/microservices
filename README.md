@@ -4,11 +4,11 @@
 - [IO分类](knowledge/ioclass.md)
 - [事务的隔离级别](knowledge/shiwu.md)
 
-微服务
+微服务架构
 -------------
 - [简介](http://microservices.io/)
 - [定义](knowledge/definination.md)
-- [微服务解决的问题](knowledge/solve.md)
+- [微服务能解决的问题](knowledge/solve.md)
 
 微服务周边
 -------------
