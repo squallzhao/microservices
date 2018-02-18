@@ -8,6 +8,7 @@
 微服务架构
 -------------
 ![0](picture/arich.jpg)
+![01](picture/char.jpeg)
 - [简介](http://microservices.io/)
 - [定义](knowledge/definination.md)
 - [微服务能解决的问题](knowledge/solve.md)
