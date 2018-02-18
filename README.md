@@ -20,6 +20,7 @@
 - gateway
     - [openresty](http://wiki.jikexueyuan.com/project/openresty/openresty/install.html)
     - [API网关Kong](https://github.com/Kong/kong) 
+        - [1](https://baijiahao.baidu.com/s?id=1592523395197628336) [2](https://www.cnblogs.com/softidea/p/7261095.html)
         - [kong教程](http://www.cnblogs.com/SummerinShire/p/6386086.html) 
         - [dashboard](https://github.com/PGBI/kong-dashboard) 
         - [konga](https://github.com/pantsel/konga)
