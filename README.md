@@ -11,6 +11,8 @@
 - [简介](http://microservices.io/)
 - [定义](knowledge/definination.md)
 - [微服务能解决的问题](knowledge/solve.md)
+- 框架
+    - dubbo [1](http://blog.csdn.net/xlgen157387/article/details/51865289) [2](http://blog.csdn.net/noaman_wgs/article/details/70214612) [3](http://blog.csdn.net/accp_fangjian/article/details/51658292) [4](http://blog.csdn.net/congcong68/article/details/41113239) [5](http://blog.csdn.net/accp_fangjian/article/details/51658292) [6](http://www.jianshu.com/p/f6db110d1185) [7](http://www.jikexueyuan.com/course/2781_3.html?ss=1)
 
 微服务周边
 -------------
