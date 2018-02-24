@@ -1,5 +1,6 @@
 基础
 -----------
+- [cpu core](https://www.cnblogs.com/bugutian/p/6138880.html)
 - [what is IO?](knowledge/io.md)
 - [IO分类](knowledge/ioclass.md)
 - [事务的隔离级别](knowledge/shiwu.md) [事务隔离和传播](https://www.cnblogs.com/WJ-163/p/6023054.html) [事务隔离举例](http://blog.csdn.net/gaoshan_820822/article/details/4582561)
