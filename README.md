@@ -152,5 +152,7 @@
 
 *[xss](http://www.cnblogs.com/shytong/p/5308641.html)
 
+*[常见的认证机制](https://www.cnblogs.com/xiekeli/p/5607107.html) *[基于token的身份认证](https://ninghao.net/blog/2834)
+
 
 
