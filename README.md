@@ -154,3 +154,4 @@
 
 *[常见的认证机制](https://www.cnblogs.com/xiekeli/p/5607107.html) *[基于token的身份认证](https://ninghao.net/blog/2834) *[Web领域基于Token](http://blog.csdn.net/u010832551/article/details/51003101) *[token认证](http://blog.csdn.net/zy_281870667/article/details/53504447)
 
+srp6
