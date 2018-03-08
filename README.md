@@ -1,7 +1,7 @@
 配置
 ----------
 - [网卡动态获取地址]（dhclient eth0)
-- [docker](knowledge/docker.md)
+- [docker&docker-compose](knowledge/docker.md)
 
 基础
 -----------
