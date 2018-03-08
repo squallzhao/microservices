@@ -1,3 +1,6 @@
+配置
+----------
+- [网卡动态获取地址]（knowledge/eth0.md)
 基础
 -----------
 - [cpu core](https://www.cnblogs.com/bugutian/p/6138880.html)
