@@ -2,6 +2,7 @@
 ----------
 - [网卡动态获取地址]（dhclient eth0)
 - [docker&docker-compose](knowledge/docker.md)
+- [php-dockerd](knowledge/php.md)
 
 基础
 -----------
