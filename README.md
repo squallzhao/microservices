@@ -4,6 +4,7 @@
 - [docker&docker-compose](knowledge/docker.md)
 - [php-dockerd](knowledge/php.md)
 - [ssh](knowledge/ssh.md)
+- [nginx](knowledge/nginx.md)
 
 基础
 -----------
