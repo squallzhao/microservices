@@ -14,3 +14,5 @@ http://wiki.jikexueyuan.com/project/docker-technology-and-combat/usage.html
 
 *[docker-compose资源](https://github.com/yeasy/docker-compose-files)
 
+*[example-3](http://blog.csdn.net/yl_1314/article/details/53761049)
+
