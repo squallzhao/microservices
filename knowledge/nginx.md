@@ -10,6 +10,9 @@ http://tengine.taobao.org/book/
 # rewrite
 https://www.cnblogs.com/czlun/articles/7010604.html
 
+# upstream &负载均衡 
+http://debugo.com/nginx-web-upstream/
+
 # last与break的区别
 
     last： 停止当前这个请求，并根据rewrite匹配的规则重新发起一个请求。新请求又从第一阶段开始执行…
