@@ -6,6 +6,7 @@
 - [ssh](knowledge/ssh.md)
 - [nginx](knowledge/nginx.md)
 - [keepalived](knowledge/keepalive.md)
+- [nfs](knowledge/nfs.md)
 - [虚拟内存设置](knowledge/xuni.md)
 
 基础
