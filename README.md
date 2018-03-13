@@ -121,6 +121,9 @@
         - zab 强一致
         - raft 强一致
            - [动画演示](http://thesecretlivesofdata.com/raft/)
+        - pbft 有限信任
+           - [描述](https://www.jianshu.com/p/fb5edf031afd)
+           
     - 2 解决分布式网络的应用层路由
         - DHT算法
     - 3 解决分布式环境下信息高效分发问题
