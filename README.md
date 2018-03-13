@@ -122,7 +122,7 @@
         - raft 强一致
            - [动画演示](http://thesecretlivesofdata.com/raft/)
         - pbft 有限信任 hyperledger
-           - [描述](https://www.jianshu.com/p/fb5edf031afd)  [概要](https://www.zhihu.com/question/52254063) [架构整理](http://www.cnblogs.com/midfielder/p/7173024.html) [8btc](http://www.8btc.com/hyperledger-fabric)
+           - [描述](https://www.jianshu.com/p/fb5edf031afd)  [概要](https://www.zhihu.com/question/52254063) [架构整理](http://www.cnblogs.com/midfielder/p/7173024.html) [8btc](http://www.8btc.com/hyperledger-fabric) [pbft & raft](http://blog.csdn.net/kojhliang/article/details/71515199?utm_source=itdadao&utm_medium=referral)
            
     - 2 解决分布式网络的应用层路由
         - DHT算法
