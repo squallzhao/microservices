@@ -122,7 +122,7 @@
         - raft 强一致
            - [动画演示](http://thesecretlivesofdata.com/raft/)
         - pbft 有限信任
-           - [描述](https://www.jianshu.com/p/fb5edf031afd)
+           - [描述](https://www.jianshu.com/p/fb5edf031afd)  [概要](https://www.zhihu.com/question/52254063)
            
     - 2 解决分布式网络的应用层路由
         - DHT算法
