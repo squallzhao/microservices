@@ -112,7 +112,7 @@
    - [NWR模型](knowledge/nwr.md)
    - [一般最终一致性 CAP的选择权交给了用户，让用户自己的选择你的CAP中的哪两个](http://jimmee.iteye.com/blog/2234637)
    - [分布式Quorum机制,NWR策略读写模型 非强一致性，在P不能舍弃情况下，CA做妥协](http://m635674608.iteye.com/blog/2343038)
-   - [HDFS用Quorum实现namenode HA](http://m.mamicode.com/info-detail-1416929.html)
+   - [HDFS用Quorum实现namenode HA](http://m.mamicode.com/info-detail-1416929.html)  [Quorum](https://www.cnblogs.com/hapjin/p/5626889.html)
 - 服务系统的一致性
     - 1 解决分布式系统中如何就某个值（决议）达成一致
         - [2PC两阶段提交  Two  Phase Commit 强一致](knowledge/2pc.md)
