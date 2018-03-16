@@ -7,6 +7,7 @@
 - [nginx](knowledge/nginx.md)
 - [keepalived](knowledge/keepalive.md)
 - [nfs](knowledge/nfs.md)
+- [hive sql字符串操作](https://www.iteblog.com/archives/1639.html)
 - [虚拟内存设置](knowledge/xuni.md)
 
 基础
