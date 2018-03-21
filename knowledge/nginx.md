@@ -16,6 +16,9 @@ http://debugo.com/nginx-web-upstream/
 # Nginx重定向&静动资源分离
 http://debugo.com/nginx-rewrite/
 
+# ssi动态指令
+http://blog.csdn.net/qmhball/article/details/8778201
+
 # last与break的区别
 
     last： 停止当前这个请求，并根据rewrite匹配的规则重新发起一个请求。新请求又从第一阶段开始执行…
