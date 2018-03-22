@@ -9,6 +9,7 @@
 - [nfs](knowledge/nfs.md)
 - [hive sql字符串操作](https://www.iteblog.com/archives/1639.html)
 - [虚拟内存设置](knowledge/xuni.md)
+- [域名查询](https://www.west.cn/web/mi/) [站长工具](http://tool.chinaz.com/)
 
 基础
 -----------
