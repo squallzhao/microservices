@@ -4,7 +4,11 @@
 
 # SpringCloudLearning
    https://github.com/forezp/SpringCloudLearning
-   
+
+# 系列介绍
+
+   https://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-config/
+
 # springclouddemo
    https://www.2cto.com/kf/201705/639787.html
    
