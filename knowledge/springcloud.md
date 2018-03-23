@@ -8,6 +8,10 @@
 # 系列介绍
 
    https://www.xjtushilei.com/2017/06/12/spring-cloud-series-spring-cloud-config/
+   
+   http://www.cnblogs.com/andyfengzp/category/998848.html
+   
+   https://blog.csdn.net/a60782885/article/details/69415527
 
 # springclouddemo
    https://www.2cto.com/kf/201705/639787.html
