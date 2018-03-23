@@ -23,6 +23,10 @@
   通过网关调用服务1
   
   http://localhost:8093/service/0/user/my/1
+  
+# 消息总线消息代理 Bus
+
+  https://blog.csdn.net/jack281706/article/details/73742522
 
 
 
