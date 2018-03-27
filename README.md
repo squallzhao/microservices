@@ -11,6 +11,7 @@
 - [虚拟内存设置](knowledge/xuni.md)
 - [域名查询](https://www.west.cn/web/mi/) [站长工具](http://tool.chinaz.com/)
 - [eclipse](knowledge/eclipse.md)
+- [top](knowledge/top.md)
 
 基础
 -----------
