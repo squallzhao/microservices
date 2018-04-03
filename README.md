@@ -13,6 +13,7 @@
 - [eclipse](knowledge/eclipse.md)
 - [top](knowledge/top.md)
 - [unity3d](knowledge/unity3d.md)
+- [mysql密码恢复](knowledge/mysql.md)
 
 基础
 -----------
