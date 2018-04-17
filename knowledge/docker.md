@@ -24,6 +24,11 @@ docker
 http://blog.csdn.net/wuapeng/article/details/51728614
 docker search <image>：在docker index中搜索image
 docker search centos
+    
+# 设置国内仓库
+
+$ echo "DOCKER_OPTS=\"\$DOCKER_OPTS --registry-mirror=http://f2d6cb40.m.daocloud.io\"" | sudo tee -a /etc/default/docker
+$ sudo service docker restart
 
 # 下载镜像
 docker pull centos:latest
