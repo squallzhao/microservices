@@ -35,6 +35,11 @@
 # 简化开发start.spring.io
    https://start.spring.io/
 
+  注册中心	    Eureka Server
+  
+  微服务（原子）  Rest Repositories/Eureka Discovery
+
+
 # 入门系列
    http://rensanning.iteye.com/blog/2355933
 
