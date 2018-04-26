@@ -17,6 +17,7 @@ docker run -ti harisekhon/hbase
 
         get 'blog_user', '001',{COLUMNS => ['userInfo:user_Name', 'userInfo:user_Password'],VERSIONS=>2}
 
+
     https://www.cnblogs.com/Little-Li/p/7877971.html
     https://www.cnblogs.com/cxzdy/p/5583239.html
     https://blog.csdn.net/tanggao1314/article/details/51387560
