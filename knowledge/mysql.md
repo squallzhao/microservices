@@ -15,3 +15,6 @@
     MySQL> quit 
 
 重新启动MySQL，就可以使用新密码登录了。
+
+# mysql 命令
+https://www.cnblogs.com/coder-wzr/p/8056415.html
