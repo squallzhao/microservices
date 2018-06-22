@@ -19,6 +19,7 @@
 - [unity3d](knowledge/unity3d.md)
 - [mysql密码恢复](knowledge/mysql.md)
 - [vagrantbox](http://www.vagrantbox.es/) [veewee](https://github.com/jedi4ever/veewee)
+- [TIME_WAIT&CLOSE_WAIT](https://www.cnblogs.com/sunxucool/p/3449068.html)
 
 基础
 -----------
