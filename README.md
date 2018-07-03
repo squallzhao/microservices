@@ -33,6 +33,7 @@
 - [JAVA基础](knowledge/java.md)
 - [redis](knowledge/redis.md)
 - [nosql](https://www.cnblogs.com/loveis715/p/5299495.html)
+- [主流数据库简介](http://www.raincent.com/content-85-3842-1.html)
 
 微服务架构
 -------------
