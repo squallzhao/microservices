@@ -34,8 +34,9 @@
 - [redis](knowledge/redis.md)
 - [nosql](https://www.cnblogs.com/loveis715/p/5299495.html)
 - [主流数据库简介](http://www.raincent.com/content-85-3842-1.html)
-- [缓存击穿](https://blog.csdn.net/zeb_perfect/article/details/54135506) 
+- [缓存击穿1](https://blog.csdn.net/zeb_perfect/article/details/54135506) 
 - [缓存击穿2](https://blog.csdn.net/sanyaoxu_2/article/details/79472465)
+- [缓存击穿3](https://blog.csdn.net/cainiao_user/article/details/78301563)
 
 微服务架构
 -------------
