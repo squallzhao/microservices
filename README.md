@@ -39,6 +39,7 @@
 - [缓存击穿1](https://blog.csdn.net/zeb_perfect/article/details/54135506) 
 - [缓存击穿2](https://blog.csdn.net/sanyaoxu_2/article/details/79472465)
 - [缓存击穿3](https://blog.csdn.net/cainiao_user/article/details/78301563)
+- [反欺诈](http://blog.51cto.com/12755572/2049360)
 
 微服务架构
 -------------
