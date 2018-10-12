@@ -35,7 +35,7 @@
 - [JAVA基础](knowledge/java.md)
 - [redis](knowledge/redis.md)
 - [nosql](https://www.cnblogs.com/loveis715/p/5299495.html)
-- [rabbitmq](https://www.jianshu.com/p/6e6821604efc) [1](https://blog.csdn.net/leyangjun/article/details/52529047) [2](https://blog.csdn.net/ujsleo/article/details/65445513)
+- [rabbitmq](https://www.jianshu.com/p/6e6821604efc) [1](https://blog.csdn.net/leyangjun/article/details/52529047) [2](https://blog.csdn.net/ujsleo/article/details/65445513) [3](https://blog.csdn.net/u013851082/article/details/69223393)
 - [主流数据库简介](http://www.raincent.com/content-85-3842-1.html)
 - [缓存击穿1](https://blog.csdn.net/zeb_perfect/article/details/54135506) 
 - [缓存击穿2](https://blog.csdn.net/sanyaoxu_2/article/details/79472465)
